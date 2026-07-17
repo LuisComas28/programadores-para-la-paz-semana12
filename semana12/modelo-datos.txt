@@ -1,0 +1,20 @@
+Modelo de Datos Básico
+Entidad: Causa
+
+id: Identificador único de la causa (clave primaria).
+
+titulo: Título breve que describe el objeto de la petición.
+
+descripcion: Detalle extenso sobre la problemática o solicitud.
+
+fecha: Registro de la fecha y hora de creación.
+
+Entidad: Apoyo
+
+id: Identificador único del respaldo (clave primaria).
+
+causa_id: Referencia a la causa que se está apoyando (clave foránea).
+
+nombre: Nombre del ciudadano que realiza el apoyo.
+
+fecha: Registro de la fecha y hora en que se otorgó el apoyo.

@@ -1,0 +1,11 @@
+Flujo del Sistema: Petición en 3 Clics
+
+Creación: Un ciudadano redacta y registra su causa en la plataforma.
+
+Almacenamiento: El sistema guarda la causa automáticamente en la base de datos para su visibilidad pública.
+
+Difusión y Apoyo: Otros ciudadanos visualizan la causa y pueden otorgar su respaldo con un solo clic.
+
+Contabilización: El sistema actualiza en tiempo real el contador de apoyos recibidos por cada causa.
+
+Generación de Documento: Al alcanzar los requisitos definidos, el sistema compila la información y genera automáticamente un archivo PDF formal con la petición lista para ser presentada.

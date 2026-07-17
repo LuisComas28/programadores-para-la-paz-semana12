@@ -1,0 +1,12 @@
+Durante este curso, aprendí que la tecnología, cuando se diseña con un enfoque 
+centrado en el ciudadano, actúa como un potente catalizador para la democracia 
+local. Comprendí que no basta con tener una idea, sino que es vital estructurarla 
+mediante modelos de datos que permitan la trazabilidad y eficiencia. 
+La automatización de tareas repetitivas mediante herramientas como n8n permite 
+que las organizaciones comunitarias dediquen su energía a la estrategia y el 
+impacto real, en lugar de a la gestión administrativa. Asimismo, la seguridad 
+y la ética en el manejo de datos no son opcionales, sino pilares de confianza 
+indispensables para mantener la legitimidad. Finalmente, me llevo la convicción
+ de que la tecnología debe ser accesible y simple, asegurando que la herramienta
+  facilite y nunca obstruya la expresión colectiva, fortaleciendo así el tejido 
+  social mediante soluciones digitales escalables y seguras.

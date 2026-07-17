@@ -1,0 +1,16 @@
+Automatización: Notificación de Nuevos Apoyos (vía Telegram)
+Evento que activa la automatización: La recepción de un nuevo registro en la entidad Apoyo dentro de la base de datos (Webhook disparado al insertar un nuevo registro).
+
+Mensaje que se envía: "¡Se ha recibido un nuevo apoyo para la causa: [Título de la Causa]! Actualmente cuenta con [Total de apoyos] respaldos ciudadanos."
+
+Información que NO debe enviarse por seguridad:
+
+Números de identificación (cédulas).
+
+Números de teléfono.
+
+Direcciones de residencia.
+
+Correos electrónicos personales.
+
+Cualquier comentario con lenguaje sensible o información privada que el usuario haya ingresado en la plataforma.
